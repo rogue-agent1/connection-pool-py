@@ -1,0 +1,1 @@
+# connection-pool-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 connection_pool.py\n```\n
